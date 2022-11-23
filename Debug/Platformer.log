@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\farof\source\repos\Platformer\main.cpp(45,59): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\farof\source\repos\Platformer\main.cpp(45,49): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\farof\source\repos\Platformer\main.cpp(45,39): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\farof\source\repos\Platformer\main.cpp(48,45): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\farof\source\repos\Platformer\main.cpp(51,42): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\farof\source\repos\Platformer\main.cpp(54,39): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\farof\source\repos\Platformer\main.cpp(57,49): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\farof\source\repos\Platformer\main.cpp(57,39): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\farof\source\repos\Platformer\main.cpp(60,52): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\farof\source\repos\Platformer\main.cpp(60,39): warning C4244: 'argument': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\farof\source\repos\Platformer\main.cpp(216,100): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\farof\source\repos\Platformer\main.cpp(216,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Platformer.vcxproj -> C:\Users\farof\source\repos\Platformer\Debug\Platformer.exe
